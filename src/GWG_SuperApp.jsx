@@ -17,7 +17,6 @@ const firebaseConfig = {
   storageBucket: "gwgsuper-a8013.firebasestorage.app",
   messagingSenderId: "525056155562",
   appId: "1:525056155562:web:72197864327b03781995d3",
-  measurementId: "G-DJD9HL1KZP"
 };
 const FIREBASE_CONFIGURED = !FIREBASE_CONFIG.apiKey.includes("XXXXX");
 
